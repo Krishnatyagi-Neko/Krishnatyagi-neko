@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="YOUR_GIF_LINK_HERE.gif" width="100%" alt="header gif" />
+  <img src="[YOUR_GIF_LINK_HERE.gif](https://tenor.com/view/banner-discord-gif-10601945827130371555)" width="100%" alt="header gif" />
 </h1>
 
-<h1 align="center" style="font-family: 'JetBrains Mono', monospace;">FLY</h1>
+<h1 align="center" style="font-family: 'JetBrains Mono', monospace;">Krishna Tyagi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FF4B2B&center=true&vCenter=true&width=520&lines=FLY;Game+Dev+%7C+Unity+%2B+C%23;Building+things+that+move" alt="Typing SVG" />
@@ -87,9 +87,9 @@ Currently building out my game dev portfolio.
 ---
 
 <p align="center">
-  <img src="YOUR_FOOTER_GIF_LINK_HERE.gif" width="100%" alt="footer gif" />
+  <img src="[YOUR_FOOTER_GIF_LINK_HERE.gi](https://tenor.com/view/kitty's-gif-9641400986736307616)" width="100%" alt="footer gif" />
 </p>
 
 <p align="center" style="font-family: 'JetBrains Mono', monospace;">
-  <i>humans can't fly, so they find ways to fly anyway.</i>
+  <i>Because people don't have wings...  We look for ways to fly,</i>
 </p>
